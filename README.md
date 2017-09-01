@@ -1,5 +1,4 @@
 ## Welcome to GitHub Pages
-Title: Lab 5 Infomgmt
 Description: this is lab 5 for infomgmt 192
 
 You can use the [editor on GitHub](https://github.com/rpea565/rpea565.github.io-/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
